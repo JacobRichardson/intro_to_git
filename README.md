@@ -46,3 +46,6 @@
 - git remote add origin <url> (add remote)
 - git remote -v (check version)
 - git push -u origin master (pushes the local repository to github repository)
+
+# Test
+- asdasdasdsadsadasd
