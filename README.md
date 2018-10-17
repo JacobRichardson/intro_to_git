@@ -13,7 +13,10 @@
 - git add
 - git commit -m "Message Here"
 - git log
+- Q to exit git log
 
 # Adding multiple files of a certain type
 - git add *.html (uses wildcard to match all file types)
 
+# Adding all files in directory including hidden files
+- git add -A
