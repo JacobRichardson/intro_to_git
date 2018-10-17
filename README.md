@@ -49,3 +49,4 @@
 
 # Test
 - asdasdasdsadsadasd
+- git push - u origin master (need to do this everytime to have changes reflect on github)
