@@ -6,3 +6,10 @@
 
 # Git Repository
 - Where all our snapshots are stored
+
+# Important commands
+- git init
+- git status
+- git add
+- git commit -m "Message Here"
+- git log
