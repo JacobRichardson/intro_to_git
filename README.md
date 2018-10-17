@@ -27,3 +27,14 @@
 # ignore files
 - .gitignore file in directory
 - Any file names in this file will not be tracked
+
+# Git branches
+- Listing all branches
+    git branch
+- Adding a branch
+    git checkout -b <branch_name>
+- Changing branch
+    git checkout <branch_name>
+- Merging a branch
+    
+- Removing a branch
