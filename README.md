@@ -36,5 +36,6 @@
 - Changing branch
     git checkout <branch_name>
 - Merging a branch
-    
+    git mergre <branch_name>
 - Removing a branch
+    git branch -d <branch_name>
