@@ -20,3 +20,10 @@
 
 # Adding all files in directory including hidden files
 - git add -A
+
+# Remove a file off the staging area
+- git reset HEAD <file>
+
+# ignore files
+- .gitignore file in directory
+- Any file names in this file will not be tracked
